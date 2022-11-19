@@ -3,7 +3,7 @@
 This is an industry level end to end Housing Price prediction project
 
 Application url:
-[HousingPredictor](https://ml-regression-app.herokuapp.com/)
+[Housing Prediction](https://housing-prediction-end-to-end.herokuapp.com/)
 
 ### Software and account Requirement.
 
